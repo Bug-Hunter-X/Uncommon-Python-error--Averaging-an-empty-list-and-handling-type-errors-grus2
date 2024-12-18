@@ -1,0 +1,1 @@
+This repository contains examples of uncommon Python errors.  The `bug.py` file shows code that does not handle cases such as an empty list, which leads to either a runtime error or unexpected results. The `bugSolution.py` provides a solution and best practices to address the error, including thorough input validation and handling of potential exceptions.
